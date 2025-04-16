@@ -1,0 +1,15 @@
+src/pas/chess/heuristics/DefaultHeuristics.java
+src/pas/chess/heuristics/CustomHeuristics.java
+
+src/pas/chess/moveorder/DefaultMoveOrderer.java
+src/pas/chess/moveorder/CustomMoveOrderer.java
+
+
+src/pas/chess/agents/MinimaxAgent.java
+src/pas/chess/agents/AlphaBetaAgent.java
+
+src/pas/chess/instrumentation/MinimaxAgent.java
+
+
+src/pas/chess/debug/agents/MinimaxReflectionAgent.java
+
