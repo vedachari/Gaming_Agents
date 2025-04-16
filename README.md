@@ -24,12 +24,7 @@ This repository contains a collection of AI and machine learning projects develo
 | `chess/` | **Minimax with Alpha-Beta Pruning** – A chess-playing agent that uses Minimax search optimized with Alpha-Beta pruning to determine optimal moves. |
 | `tetris/` | **Reinforcement Learning with Custom Heuristic** – A Tetris agent trained via reinforcement learning, enhanced with custom heuristics for better state evaluation. |
 
----
+## 🏫 Course Information
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+This code was developed as part of **CS440: Introduction to Artificial Intelligence** at **Boston University**.  
+Portions of the codebase were originally developed by the **BU CS440 course staff**, including **Professor Andrew Wood**.
